@@ -1,0 +1,99 @@
+﻿@*@model PagedList.IPagedList<DataAccessLayer.Report>*@
+@model IEnumerable<DataAccessLayer.Report>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Index";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+    {
+        <label class="control-label" for="Email">
+            Период с
+        </label>
+        <input type="date" name="startTime" id="startTime" value="<%= ViewBag.startTime.ToString.Format(" {0:yyyy-mm-dd}">
+        <label class="control-label" for="Email">
+            до
+        </label>
+        <input type="date" name="finishTime" id="finishTime" value="<%= ViewBag.finishTime.ToString.Format(" {0:yyyy-mm-dd}" />
+        <input type="submit" id="submitButtonLook" name="submitButton" value="Просмотр" />
+        <label class="control-label" for="Email">
+            email получателя
+        </label>
+        <input type="email" id="email" name="email" placeholder="example@mail.ru" value="anastasiatestfuse8@mail.ru">
+        <input type="submit" id="submitButtonSend" name="submitButton" value="Отправить" />
+    }
+
+    @if (TempData["msg"] != null)
+    {
+        <p><strong> <font size=5>@TempData["msg"].ToString()</font></strong></p>
+    }
+    <table>
+        <tr>
+            <th>
+                Номер заказа
+            </th>
+            <th>
+                Дата заказа
+            </th>
+            <th>
+                Артикул товара
+            </th>
+            <th>
+                Название товара
+            </th>
+            <th>
+                Кол-во реализ. ед.
+            </th>
+            <th>
+                Цена за шт.
+            </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.orderID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.orderDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.productID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantity)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UnitPrice)
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
+<script>
+    var elements = document.querySelectorAll('input[type="date"]');
+
+    function checkValidity() { };
+
+    for (i = 0; i < elements.length; i++) {
+        (function (element) {
+            var id = element.getAttribute('id');
+            element.value = sessionStorage.getItem(id);
+            element.oninput = function () {
+                sessionStorage.setItem(id, element.value);
+                checkValidity();
+            };
+        })(elements[i]);
+    }
+</script>

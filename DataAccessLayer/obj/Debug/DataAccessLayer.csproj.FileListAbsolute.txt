@@ -1,0 +1,60 @@
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\DataAccessLayer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\DataAccessLayer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\DataAccessLayer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\DataAccessLayer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\DataAccessLayer\bin\Debug\EPPlus.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\DataAccessLayer\bin\Debug\EPPlus.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\DataAccessLayer\bin\Debug\EPPlus.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\DataAccessLayer\bin\Debug\EPPlus.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\DataAccessLayer\bin\Debug\EPPlus.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\DataAccessLayer\bin\Debug\EPPlus.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\DataAccessLayer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\DataAccessLayer\bin\Debug\EPPlus.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\DataAccessLayer\bin\Debug\EPPlus.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\DataAccessLayer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,406 @@
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\System.Web.Providers.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\System.Web.Providers.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\EPPlus.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\System.Web.Providers.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\EPPlus.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp — копия\WebApp\WebApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\EPPlus.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\System.Web.Providers.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\EPPlus.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (report - рабочая версия)\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\EPPlus.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\System.Web.Providers.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\EPPlus.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\PagedList.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\PagedList.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\PagedList.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (dataacsesslayer)\WebApp\WebApp\bin\PagedList.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\EPPlus.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\PagedList.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\PagedList.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\System.Web.Providers.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\EPPlus.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\PagedList.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\PagedList.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp (передача параметров в функцию)\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\EPPlus.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\PagedList.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\PagedList.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\EPPlus.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\PagedList.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp\WebApp\WebApp\bin\PagedList.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\EPPlus.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\PagedList.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\PagedList.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\System.Web.Providers.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\EPPlus.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\PagedList.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\PagedList.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(Создаем отдельный класс для Excel)\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\EPPlus.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\PagedList.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\PagedList.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\System.Web.Providers.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\EPPlus.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\PagedList.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\PagedList.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(без постраничного)\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\EPPlus.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\PagedList.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\PagedList.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\System.Web.Providers.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\EPPlus.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\PagedList.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\PagedList.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\2WebApp(поле для email)\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\DataAccessLayer.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\EPPlus.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\PagedList.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\PagedList.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\System.Web.Providers.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\DataAccessLayer.pdb
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\EPPlus.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\PagedList.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\PagedList.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\ru\EntityFramework.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Anastasia\Desktop\Тестовое задание\fuse8\WebApp\WebApp\WebApp\obj\Debug\WebApp.pdb
